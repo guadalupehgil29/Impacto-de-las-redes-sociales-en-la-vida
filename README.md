@@ -1,4 +1,4 @@
-# Impacto-de-las-redes-sociales-en-la-vida
+# Impacto de las redes sociales en la vida.
 Impacto de las Redes Sociales en la Vida de los Estudiantes
 Autor: Guadalupe Hernández
 Curso: Herramientas básicas para el Análisis de Datos
